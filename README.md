@@ -3,7 +3,7 @@
 ### Me chamo Júnior Lopes :cowboy_hat_face:
 
 - :brain: Sou desenvolvedor Flutter e apaixonado por essa tecnologia :heart: </br>
-Além de Dart/Futter tenho conhecimento em Angular, NodeJs, MySql.
+Além de Dart/Flutter tenho conhecimento em Angular, NodeJs, MySql.
 - :computer: Trabalho atualmente no [IATec](https://iatec.com/) (time do [7me](https://www.instagram.com/7me.app/)) e no [ProExtrato](https://proextrato.com.br/)
 - :iphone: Já desenvolvi o app da [Hunno](https://play.google.com/store/apps/details?id=com.hunno.hunno_app) e do [flyTrack Expeditions](https://www.instagram.com/flytrack.expeditions)
 - :link: [LinkedIn](https://www.linkedin.com/in/junior-lps/), [Protifólio](https://juniorlpes.github.io/) (em breve)
