@@ -1,4 +1,5 @@
-## Olá! 👋
+## Olá! 👋 
+Read in [english](https://github.com/Juniorlpes/Juniorlpes/blob/main/README-en.md)
 
 ### Me chamo Júnior Lopes :cowboy_hat_face:
 
@@ -11,7 +12,6 @@ Além de Dart/Flutter tenho conhecimento em Angular, NodeJs, MySql.
 </br>
 No mais, amo investimentos :moneybag:, música :notes:, natureza :palm_tree::cactus: e uma lista grande de coisas boas. Abraço.
 
-</br>
 </br>
 </br>
 :clown_face: Bom, todos os meus projetos de fato são privados, então aqui no GitHub tem apenas alguns do início do aprendizado (ps: com gambiarras que um dia irei ajustar) ou forks de packages para ajustes rs.
