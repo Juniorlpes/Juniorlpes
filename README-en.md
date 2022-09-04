@@ -15,4 +15,3 @@ I love investing :moneybag:, music :notes:, nature :palm_tree::cactus: and more 
 </br>
 </br>
 :clown_face: My cool projects are private, so, here on GitHub has some projects when I was learning programing (low quality. I'll improve then later.) and package's forks to fixes.
-Bom, todos os meus projetos de fato são privados, então aqui no GitHub tem apenas alguns do início do aprendizado (ps: com gambiarras que um dia irei ajustar) ou forks de packages para ajustes rs.
