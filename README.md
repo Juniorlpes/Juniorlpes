@@ -14,5 +14,5 @@ No mais, amo investimentos :moneybag:, música :notes:, natureza :palm_tree::cac
 
 </br>
 </br>
-:clown_face: Bom, todos os meus projetos de fato são privados, então aqui no GitHub tem alguns projetos do início do aprendizado (ps: com gambiarras que um dia irei ajustar) ou forks de packages para ajustes rs.
+:clown_face: Bom, todos os meus projetos de fato são privados, então aqui no GitHub tem alguns projetos do início do aprendizado ou forks de packages para ajustes rs.
 
