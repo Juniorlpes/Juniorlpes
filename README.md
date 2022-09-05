@@ -1,5 +1,5 @@
 ## Olá! 👋 
-Read in [english](https://github.com/Juniorlpes/Juniorlpes/blob/main/README-en.md)
+<!-- Read in [english](https://github.com/Juniorlpes/Juniorlpes/blob/main/README-en.md) -->
 
 ### Me chamo Júnior Lopes :cowboy_hat_face:
 
