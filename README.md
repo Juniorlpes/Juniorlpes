@@ -6,7 +6,7 @@ Read in [english](https://github.com/Juniorlpes/Juniorlpes/blob/main/README-en.m
 - :brain: Sou desenvolvedor Flutter e apaixonado por essa tecnologia :heart: </br>
 Além de Dart/Flutter tenho conhecimento em Angular, NodeJs, MySql.
 - :computer: Trabalho atualmente no [IATec](https://iatec.com/) (time do [7me](https://www.instagram.com/7me.app/)) e no [ProExtrato](https://proextrato.com.br/)
-- :iphone: Já desenvolvi o app da [Hunno](https://play.google.com/store/apps/details?id=com.hunno.hunno_app) e para o [flyTrack Expeditions](https://www.instagram.com/flytrack.expeditions)
+- :iphone: Já desenvolvi o app da [Hunno](https://play.google.com/store/apps/details?id=com.hunno.hunno_app) e para o [flyTrack Expeditions](https://www.instagram.com/flytrack.expeditions) e outros.
 - :link: [LinkedIn](https://www.linkedin.com/in/junior-lps/), [Protifólio](https://juniorlpes.github.io/) (em breve)
 
 </br>
