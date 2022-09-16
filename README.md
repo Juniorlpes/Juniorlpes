@@ -43,6 +43,9 @@ Além de Dart/Flutter tenho conhecimento em Angular, NodeJs, MySql.
   <a href="https://github.com/Juniorlpes">
     <img alt="" src="https://img.shields.io/badge/gitLab-FC6D26?style=flat&logo=gitlab&logoColor=white" />
   </a>
+  <a href="https://github.com/Juniorlpes">
+    <img alt="" src="https://img.shields.io/badge/Azure DevOps-0078d7?style=flat&logo=azuredevops&logoColor=white" />
+  </a>
 </div>
 <div>
   <a href="https://github.com/Juniorlpes">
