@@ -6,7 +6,7 @@
 Besides Dart/Flutter I've knowledge in Angular, NodeJs, MySql.
 - :computer: I currently work at [IATec](https://iatec.com/) ([7me app](https://www.instagram.com/7me.app/) team) and [ProExtrato](https://proextrato.com.br/).
 - :iphone: I built [Hunno app](https://play.google.com/store/apps/details?id=com.hunno.hunno_app), [flyTrack Expeditions](https://www.instagram.com/flytrack.expeditions) app and more. 
-- :link: [LinkedIn](https://www.linkedin.com/in/junior-lps/), [Protifólio](https://juniorlpes.github.io/) (coming soon)
+- :link: [LinkedIn](https://www.linkedin.com/in/junior-lps/), [Protifólio](https://juniorlpes.github.io/)
 
 <div>
   <a href="https://github.com/Juniorlpes">
