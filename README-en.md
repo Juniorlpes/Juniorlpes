@@ -5,7 +5,7 @@
 - :brain: I'm a Flutter developer and passionate about this technology :heart: </br>
 Besides Dart/Flutter I've knowledge in Angular, NodeJs, MySql.
 - :computer: I currently work at [IATec](https://iatec.com/) ([7me app](https://www.instagram.com/7me.app/) team).
-- :watermelon::zap: Co-founder of [RedMelon Techologies](https://redmelontech.com/).
+- :watermelon: Co-founder of [RedMelon Techologies](https://redmelontech.com/).
 - :iphone: I built [Hunno app](https://play.google.com/store/apps/details?id=com.hunno.hunno_app), [ProExtrato](https://proextrato.com.br/), [flyTrack Expeditions](https://www.instagram.com/flytrack.expeditions) app and more. 
 - :link: [LinkedIn](https://www.linkedin.com/in/junior-lps/), [Protifólio](https://juniorlpes.github.io/)
 
