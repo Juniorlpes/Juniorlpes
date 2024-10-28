@@ -20,10 +20,10 @@ Além de Dart/Flutter tenho conhecimento em Angular, NodeJs, MySql.
     <img alt="" src="https://img.shields.io/badge/Dart-0175c2?style=flat&logo=dart&logoColor=white" />
   </a>
   <a href="https://github.com/Juniorlpes">
-    <img alt="" src="https://img.shields.io/badge/Angular-dd0031?style=flat&logo=angular&logoColor=white" />
+    <img alt="" src="https://img.shields.io/badge/Nodejs-43853d?style=flat&logo=Node.js&logoColor=white" />
   </a>
   <a href="https://github.com/Juniorlpes">
-    <img alt="" src="https://img.shields.io/badge/Nodejs-43853d?style=flat&logo=Node.js&logoColor=white" />
+    <img alt="" src="https://img.shields.io/badge/Angular-dd0031?style=flat&logo=angular&logoColor=white" />
   </a>
 </div>
 <div>
@@ -31,7 +31,13 @@ Além de Dart/Flutter tenho conhecimento em Angular, NodeJs, MySql.
     <img alt="" src="https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=white" />
   </a>
   <a href="https://github.com/Juniorlpes">
-    <img alt="" src="https://img.shields.io/badge/mysql-4479a1?style=flat&logo=mysql&logoColor=white" />
+    <img alt="" src="https://img.shields.io/badge/Supabase-3fcf8e?style=flat&logo=supabase&logoColor=white" />
+  </a>
+  <a href="https://github.com/Juniorlpes">
+    <img alt="" src="https://img.shields.io/badge/mongodb-47A248?style=flat&logo=mongodb&logoColor=white" />
+  </a>
+  <a href="https://github.com/Juniorlpes">
+    <img alt="" src="https://img.shields.io/badge/mySql-4479a1?style=flat&logo=mysql&logoColor=white" />
   </a>
 </div>
 <div>
